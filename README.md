@@ -83,6 +83,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - nslookup www.google.com
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AKXUt1B.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
