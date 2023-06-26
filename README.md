@@ -15,28 +15,34 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>What we will be obseving inside of Wireshark</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Source
+- Destination
+- Protocol
+- Length info
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZJao03s.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ <p>
+<img src="https://i.imgur.com/6xJBrvx.png="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+  
+  So if you look at the screenshot above, you can see all of the diffrect things that we can look at when observing network traffic using wireshark. To do this all you have do is once wireshark is open, if you look at the top of the screen you should see a filter bar in which you can type whichever protocol you would like to observe and analyze.
 </p>
 <br />
 
