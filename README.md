@@ -15,7 +15,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDP, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DNS, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -46,13 +46,23 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+<h2>ICMP Command lines</h2>
+
+- Ping (Private IP Address) of the other Computer
+- Ping (Domain names like www.google.com ) into a readable IP Address
+- Ping (example: 10.0.0.5 -t)
+- Press CTRL+C on your keyboard to stop the perpetual ping
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+<h2>Connecting to a SSH Command Line</h2>
+ 
+ - ssh (Username)(@)(Private IP Address)
+- Enter the password: Password1 (example)
+- Type ‘exit’ to leave
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
