@@ -86,3 +86,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/AKXUt1B.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Allow/Deny one of the protocols inside of the Network Security Group within Azure</h2>
+
+*Steps*
+Network Security Group > Inbound Rules > + Rule > Type; DENY_ICMP_PING_FROM_ANYWHERE
+
+<p>
+<img src="https://i.imgur.com/nogYEGl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
