@@ -54,7 +54,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Press CTRL+C on your keyboard to stop the perpetual ping
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SRnb5PO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -65,7 +65,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Type ‘exit’ to leave
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jgvWLDY.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -74,7 +74,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
  - ipconfig /renew (will attempt to create a fresh IP address on the computer)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qhNvtHr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
