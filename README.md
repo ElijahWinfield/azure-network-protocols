@@ -42,7 +42,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p> 
   
-  So if you look at the screenshot above, you can see all of the diffrect things that we can look at when observing network traffic using wireshark. To do this all you have do is once wireshark is open, if you look at the top of the screen you should see a filter bar in which you can type whichever protocol you would like to observe and analyze.
+  So if you look at the screenshot above, you can see all of the different things that we can look at when observing network traffic using Wireshark. To do this all you have do is once Wireshark is open, if you look at the top of the screen you should see a filter bar in which you can type whichever protocol you would like to observe and analyze.
 </p>
 <br />
 
